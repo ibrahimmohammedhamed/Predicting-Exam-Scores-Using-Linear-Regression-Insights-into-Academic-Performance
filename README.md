@@ -1,5 +1,7 @@
-# Predicting-Exam-Scores-Using-Linear-Regression-Insights-into-Academic-Performance
-A data-driven project aimed at understanding the factors influencing academic performance. By leveraging multiple linear regression, we predict student exam scores based on study habits, parental involvement, and other critical features. This repository contains all code, analysis, and visualizations used in the project.
+Name: Ibrahim Hamed
+Email: Im37733n@pace.edu
+Status: Complete
+
 
 2. Project Overview
 This project explores the relationship between various factors (e.g., study hours, attendance, motivation) and academic performance. Using multiple linear regression, we predict student exam scores and provide actionable insights for improving educational outcomes.
