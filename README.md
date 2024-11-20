@@ -1,0 +1,2 @@
+# Predicting-Exam-Scores-Using-Linear-Regression-Insights-into-Academic-Performance
+A data-driven project aimed at understanding the factors influencing academic performance. By leveraging multiple linear regression, we predict student exam scores based on study habits, parental involvement, and other critical features. This repository contains all code, analysis, and visualizations used in the project.
